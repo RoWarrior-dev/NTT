@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h1 {
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(105, 104, 104);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: rgb(53, 53, 53);
+}
+.navbar li{
+    float: left;
+}
+h3 {
+    text-align: center;
+}
+footer{
+    border-style: outset;
+    border-color: grey;
+    background-color: rgb(200, 198, 198);
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+}
+form {
+    text-align: center;
+}
